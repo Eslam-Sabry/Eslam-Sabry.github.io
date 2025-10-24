@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alex Johnson
+title: Eslam Ahmed
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Eslam
+last_name: Ahmed
 
 # Pronouns (optional)
-pronouns: he/him
+# pronouns: he/him
 
 # Status emoji
 status:
@@ -23,84 +23,74 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Postdoc in Condensed Matter Physics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name:  Tanaka-Kawaguchi group, Nagoya University
+    url: https://www.nagoya-u-onnes.jp/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:islam69010@stemegypt.edu.eg'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/Eslam-Sabry
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alexjohnsonai/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.co.jp/citations?user=oXjq3ZkAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0001-0066-2560
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Majorana anyons and Parafermions
+  - Topological States of Matter
+  - Fractional Quantum Hall Edges
+  - Superconducting Junctions
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Applied Physics
+    institution: Nagoya University
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+    date_start: 2022-10-01
+    date_end: 2025-09-29
+    #summary: |
+    #  Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com/thesis.pdf'
+  - area: MS Applied Physics
+    institution: Nagoya University
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+    date_start: 2020-10-01
+    date_end: 2022-09-27
+    #summary: |
+    #  GPA: 4.0/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+    #  Specialized in machine learning and robotics.
+  - area: BS Physics
+    institution: Nagoya University
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
+    date_start: 2016-10-01
+    date_end: 2020-09-28
+    #summary: |
+    #  GPA: 3.9/4.0
 
-      Minored in Mathematics. President of AI Club.
+    #  Minored in Mathematics. President of AI Club.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Specially Appointed Assistant Professor (PostDoc)
+    company_name: Nagoya University
+    company_url: 'https://www.nagoya-u-onnes.jp/en/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2025-11-01
     date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
+    #summary: |2-
+    #  Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+  
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -168,5 +158,4 @@ awards:
     summary: |
       Recognized for contributions to scaling laws in deep learning.
 ---
-
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a specially appointed assistant professor -which is just a fancy way to write postdoc- at Tanaka-Kawaguchi group, graduate school of engineering, Nagoya University. I have a variety of interests and very little time to explore them all. Currently, I am focusing on further understanding 1d topological superconductors and edge theory of fractional quantum hall states. 
