@@ -128,34 +128,23 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Arabic
+    percent: 100
+  - name: Japanese
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+#awards:
+#  - title: Best Paper Award
+#    url: https://neurips.cc/
+#    date: '2022-12-01'
+#    awarder: NeurIPS
+#    icon: hero/trophy
+#    summary: |
+#      Awarded for groundbreaking work on efficient training of large models.
+
 ---
 I am a specially appointed assistant professor -which is just a fancy way to write postdoc- at Tanaka-Kawaguchi group, graduate school of engineering, Nagoya University. I have a variety of interests and very little time to explore them all. Currently, I am focusing on further understanding 1d topological superconductors and edge theory of fractional quantum hall states. 
