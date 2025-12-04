@@ -23,11 +23,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoc in Condensed Matter Physics
+role: Specially Appointed Assistant Professor in Condensed Matter Physics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name:  Tanaka-Kawaguchi group, Nagoya University
+  - name:  Tanaka-Kawaguchi group, Graduate school of Engineering, Nagoya University
     url: https://www.nagoya-u-onnes.jp/en/
 
 # Social network links
@@ -93,49 +93,56 @@ work:
     date_start: 2025-11-01
     date_end: ''
     #summary: |2-
-    #  Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+      
   
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Theoretical
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
+      - name: Topological Superconductivity & Majorana Fermions
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: Floquet Theory & Quantum Transport
         description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
+        percent: 100
+        icon: chart-bar
+      - name: QFT Techniques
+        description: CFT, Bosonization, Luttinger Liquids, Green's Functions
+        percent: 100
+        icon: code-bracket
+  - name: Computational
+    items:
+      - name: Languages
+        description: Python, Julia, LaTeX
+        percent: 100
+        icon: code-bracket
+      - name: Numerical Methods
+        description: Tight-binding, Recursive Green's Functions, DMRG, Exact Diagonalization
+        percent: 100
+        icon: cpu-chip
+      - name: Libraries
+        description: PyTorch, JAX, Kwant, CuPy, ITensors, NumPy, Scipy, Matplotlib, Sympy
+        percent: 80
+        icon: circle-stack
+  - name: Languages
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+      - name: Arabic
+        description: Native
+        percent: 100
+        icon: globe-alt
+      - name: English
+        description: Fluent
+        percent: 100
+        icon: globe-alt
+      - name: Japanese
+        description: Daily Conversation
+        percent: 60
+        icon: globe-alt
 
-languages:
-  - name: English
-    percent: 100
-  - name: Arabic
-    percent: 100
-  - name: Japanese
-    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -151,4 +158,4 @@ languages:
 #      Awarded for groundbreaking work on efficient training of large models.
 
 ---
-I am a specially appointed assistant professor -which is just a fancy way to write postdoc- at Tanaka-Kawaguchi group, graduate school of engineering, Nagoya University. I have a variety of interests and very little time to explore them all. Currently, I am focusing on further understanding 1d topological superconductors and edge theory of fractional quantum hall states. 
+I am a specially appointed assistant professor at Tanaka-Kawaguchi group, graduate school of engineering, Nagoya University. I have a variety of interests and very little time to explore them all so I am always looking for new opportunities to collaborate with other researchers. Currently, I am focusing on further understanding 1d topological superconductors and edge theory of fractional quantum hall states.
