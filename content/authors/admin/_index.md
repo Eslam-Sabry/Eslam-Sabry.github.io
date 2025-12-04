@@ -39,7 +39,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/Eslam-Sabry
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: ''
   - icon: academicons/google-scholar
     url: https://scholar.google.co.jp/citations?user=oXjq3ZkAAAAJ&hl=en
   - icon: academicons/orcid
@@ -57,29 +57,33 @@ education:
     icon: ""
     date_start: 2022-10-01
     date_end: 2025-09-29
-    #summary: |
-    #  Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    #button:
-    #  text: 'Read Thesis'
-    #  url: 'https://example.com/thesis.pdf'
+    summary: |
+      Thesis on _Theory of odd frequency pairing as a probe of topological superconductivity and Majorana fermions_. Supervised by Prof. Yukio Tanaka.
+    button:
+      text: 'Read Thesis'
+      url: 'uploads/PhD_Thesis.pdf'
   - area: MS Applied Physics
     institution: Nagoya University
     icon: ""
     date_start: 2020-10-01
     date_end: 2022-09-27
-    #summary: |
-    #  GPA: 4.0/4.0
+    summary: |
+      Thesis on _Odd-frequency Pairing in Floquet Topological Superconductors_. Supervised by Prof. Yukio Tanaka.
+    button:
+      text: 'Read Thesis'
+      url: 'uploads/MS_Thesis.pdf'
 
-    #  Specialized in machine learning and robotics.
+
   - area: BS Physics
     institution: Nagoya University
     icon: ""
     date_start: 2016-10-01
     date_end: 2020-09-28
-    #summary: |
-    #  GPA: 3.9/4.0
-
-    #  Minored in Mathematics. President of AI Club.
+    summary: |
+      Thesis on _Gauge/Gravity Duality_. Supervised by Prof. Masaharu Tanabashi.
+    button:
+      text: 'Read Thesis'
+      url: 'uploads/BS_Thesis.pdf'
 
 work:
   - position: Specially Appointed Assistant Professor (PostDoc)
