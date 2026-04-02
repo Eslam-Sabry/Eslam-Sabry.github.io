@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Eslam-Sabry/al-folio",
+    "data-repo": "Eslam-Sabry/Eslam-Sabry.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
