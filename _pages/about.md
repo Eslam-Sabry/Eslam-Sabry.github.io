@@ -5,12 +5,13 @@ permalink: /
 subtitle: Assistant Professor, Kyushu University #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: right
+  align: left
   image: profile.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>B708, West Zone 1, Kyushu University</p>
-    <p>Motooka, Nishi Ward</p>
+    <p>B708, West Zone 1, </p>
+    <p> Kyushu University</p>
+    <p>Motooka, Nishi Ward,</p>
     <p>Fukuoka, Japan, 819-0395</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
