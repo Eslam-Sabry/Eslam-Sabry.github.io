@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Assistant Professor, Kyushu University #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>B708, West Zone 1, Kyushu University</p>
@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a condensed matter theorist working as a project Assistant Professor at Kyushu University, Japan. I working on topological superconductivity, Majorana bound states, odd-frequency pairing, and transport in low-dimensional quantum systems. My research focuses on the theory of topological superconductors, semiconductor-superconductor heterostructures, and fractional quantum Hall–superconductor junctions.
+I am a condensed matter theorist working on topological superconductivity, Majorana bound states, odd-frequency pairing, and transport in low-dimensional quantum systems. My research focuses on the theory of topological superconductors, semiconductor-superconductor heterostructures, and fractional quantum Hall–superconductor junctions.
