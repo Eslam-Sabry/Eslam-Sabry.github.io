@@ -28,4 +28,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a condensed matter theorist working on topological superconductivity, Majorana bound states, odd-frequency pairing, and transport in low-dimensional quantum systems. My research focuses on the theory of topological superconductors, semiconductor-superconductor heterostructures, and fractional quantum Hall–superconductor junctions.
+I am a theoretical condensed matter physicist working on topological superconductivity and emergent quantum phenomena in low-dimensional systems. My research explores Majorana bound states, odd-frequency pairing, and quantum transport in hybrid structures such as semiconductor–superconductor heterostructures and fractional quantum Hall–superconductor junctions, with an emphasis on identifying experimentally accessible signatures of topological phases.
