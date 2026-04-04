@@ -7,7 +7,7 @@ subtitle: Assistant Professor, Kyushu University #<a href='#'>Affiliations</a>. 
 profile:
   align: left
   image: profile.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>B708, West Zone 1, </p>
     <p> Kyushu University</p>
