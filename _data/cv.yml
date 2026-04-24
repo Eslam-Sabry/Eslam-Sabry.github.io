@@ -4,7 +4,7 @@ cv:
   email: ahmed.eslam.520@m.kyushu-u.ac.jp
   location: Fukuoka, Japan
   image: ""
-  summary: Assistant Professor at Kyushu University, Japan. My research explores Majorana bound states, odd-frequency pairing, and quantum transport in hybrid structures such as semiconductor–superconductor heterostructures and fractional quantum Hall–superconductor junctions, with an emphasis on identifying experimentally accessible signatures of topological phases.
+  #summary: Assistant Professor at Kyushu University, Japan. My research explores Majorana bound states, odd-frequency pairing, and quantum transport in hybrid structures such as semiconductor–superconductor heterostructures and fractional quantum Hall–superconductor junctions, with an emphasis on identifying experimentally accessible signatures of topological phases.
 
   #social_networks:
   #  - network: X
@@ -88,14 +88,14 @@ cv:
     #      - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
     #      - "Men of the year 2014 by Time magazine"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+    #Awards:
+    #  - title: Nobel Prize in Physics
+    #    authors:
+    #      - "Royal Swedish Academy of Sciences"
+    #    date: 1921-11-01
+    #    awarder: Royal Swedish Academy of Sciences
+    #    url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+    #    summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
       
     #Publications:
