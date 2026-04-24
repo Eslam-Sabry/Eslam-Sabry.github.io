@@ -1,9 +1,9 @@
 cv:
   name: Eslam Ahmed
-  label: Assistant Professor
+  headline: Assistant Professor
   email: ahmed.eslam.520@m.kyushu-u.ac.jp
   location: Fukuoka, Japan
-  image: ""
+  photo: ""
   #summary: Assistant Professor at Kyushu University, Japan. My research explores Majorana bound states, odd-frequency pairing, and quantum transport in hybrid structures such as semiconductor–superconductor heterostructures and fractional quantum Hall–superconductor junctions, with an emphasis on identifying experimentally accessible signatures of topological phases.
 
   #social_networks:
@@ -13,13 +13,6 @@ cv:
   #    username: example
   #  - network: LinkedIn
   #    username: example
-
-  address:
-    street: Motooka, Nishi Ward,
-    city: Fukuoka
-    region: Kyushu
-    postalCode: 819-0395
-    countryCode: JP
 
   sections:
     Education:
