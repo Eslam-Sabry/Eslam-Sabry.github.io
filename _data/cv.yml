@@ -26,8 +26,8 @@ cv:
         #score: ""
         #courses: "Theory of Relativity"
         highlights:
-          - 'Thesis title: Theory of odd frequency pairing as a probe of topological superconductivity and Majorana fermions'
-          - 'Supervisor: Prof. Yukio Tanaka'
+          - "Thesis title: Theory of odd frequency pairing as a probe of topological superconductivity and Majorana fermions"
+          - "Supervisor: Prof. Yukio Tanaka"
 
       - institution: Nagoya University
         location: Nagoya, Japan
@@ -36,8 +36,8 @@ cv:
         start_date: 2020
         end_date: 2022
         highlights:
-          - 'Thesis title: Odd-frequency Pairing in Floquet Topological Superconductors.'
-          - 'Supervisor: Prof. Yukio Tanaka'
+          - "Thesis title: Odd-frequency Pairing in Floquet Topological Superconductors."
+          - "Supervisor: Prof. Yukio Tanaka"
 
       - institution: Nagoya University
         location: Nagoya, Japan
@@ -46,11 +46,11 @@ cv:
         start_date: 2016
         end_date: 2020
         highlights:
-          - 'Thesis title: Gauge/Gravity Duality.'
-          - 'Supervisor: Prof. Masaharu Tanabashi'
+          - "Thesis title: Gauge/Gravity Duality."
+          - "Supervisor: Prof. Masaharu Tanabashi"
 
     Experience:
-      - company:  Kyushu University
+      - company: Kyushu University
         position: Project Assistant Professor
         location: Fukuoka, Japan
         start_date: 2026
@@ -68,7 +68,6 @@ cv:
         #highlights:
         #  - Description 1.
         #  - Description 2.
-
 
     #Volunteer:
     #  - company: People's Climate March
@@ -90,7 +89,6 @@ cv:
     #    url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
     #    summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-      
     #Publications:
     #  - title: Zur Elektrodynamik bewegter Körper
     #    authors:
@@ -99,8 +97,6 @@ cv:
     #    releaseDate: 1905-06-30
     #    url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
     #    summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-
 
     #Skills:
     #  - name: Physics
