@@ -205,11 +205,18 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  # stuff I excluded myself (To my future self: try to gradually populate the site with these files and remove them from the exclude list one by one, instead of leaving them all excluded forever):
   - _news/announcement_*.md
   - _pages/blog.md
   - _posts/
   - _projects/?_project.md
   - assets/jupyter/blog.ipynb
+  - _pages/teaching.md
+  - _teachings/?_teaching.md
+  - _books/?_book.md
+  - _pages/dropdowns.md
+  - _pages/projects.md
+  - _pages/repositories.md
 keep_files:
   - CNAME
   - .nojekyll
