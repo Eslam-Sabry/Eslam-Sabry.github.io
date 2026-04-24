@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-05'
+  last_updated: '2026-04-24'
 papers:
   oXjq3ZkAAAAJ:-f6ydRqryjwC:
     citations: 1
     title: Odd-frequency superconducting pairing and multiple Majorana edge modes in driven topological superconductors
     year: '2024'
   oXjq3ZkAAAAJ:4DMP91E08xMC:
-    citations: 5
+    citations: 7
     title: Anomalous proximity effect under Andreev and Majorana bound states
     year: '2025'
   oXjq3ZkAAAAJ:7PzlFSSx8tAC:
@@ -18,7 +18,7 @@ papers:
     title: Odd-Frequency Pairing in Floquet Topological Superconductor
     year: '2022'
   oXjq3ZkAAAAJ:M3ejUd6NZC8C:
-    citations: 12
+    citations: 13
     title: Odd-frequency pairing due to Majorana and trivial Andreev bound states
     year: '2025'
   oXjq3ZkAAAAJ:ZeXyd9-uunAC:
