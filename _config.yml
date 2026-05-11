@@ -160,7 +160,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: false
+    output: true
   projects:
     output: false
   teachings:
@@ -218,7 +218,6 @@ exclude:
   - _projects
   - _teachings
   - _books
-  - _news
 keep_files:
   - CNAME
   - .nojekyll
