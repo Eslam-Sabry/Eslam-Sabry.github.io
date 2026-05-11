@@ -23,7 +23,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{
+        },{id: "news-my-paper-universal-transport-theory-for-paired-fractional-quantum-hall-states-in-the-quantum-point-contact-geometry-is-now-accepted-in-physical-review-b",
+          title: 'My paper “Universal transport theory for paired fractional quantum Hall states in the...',
+          description: "",
+          section: "News",},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
