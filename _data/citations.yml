@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-13'
 papers:
   oXjq3ZkAAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -18,7 +18,7 @@ papers:
     title: Odd-Frequency Pairing in Floquet Topological Superconductor
     year: '2022'
   oXjq3ZkAAAAJ:M3ejUd6NZC8C:
-    citations: 13
+    citations: 12
     title: Odd-frequency pairing due to Majorana and trivial Andreev bound states
     year: '2025'
   oXjq3ZkAAAAJ:ZeXyd9-uunAC:
@@ -26,6 +26,6 @@ papers:
     title: Universal Transport Theory for Paired Fractional Quantum Hall States in the Quantum Point Contact Geometry
     year: '2026'
   oXjq3ZkAAAAJ:u5HHmVD_uO8C:
-    citations: 11
+    citations: 10
     title: Odd-frequency superconducting pairing due to multiple Majorana edge modes in driven topological superconductors
     year: '2025'
